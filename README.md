@@ -1,41 +1,13 @@
-# 🌟 Ai-Park
+# Ai-Park Visitor
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Heykcer/Ai-Park?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/Heykcer/Ai-Park)
+## Live Demo
 
-## 🚀 Features
-- Intelligent parking recommendations based on real-time data.
-- User-friendly interface for seamless interaction.
-- Support for various types of vehicles.
+[Link to Live Demo]
 
-## 📦 Installation
-To install Ai-Park, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Heykcer/Ai-Park.git
-   ```
-2. Navigate to the directory:
-   ```bash
-   cd Ai-Park
-   ```
-3. Install the required dependencies:
-   ```bash
-   npm install
-   ```
+## 👥 Contributors
 
-## 💻 Usage
-To start Ai-Park, run the following command:
-```bash
-npm start
-```
-Follow the on-screen instructions for using the application.
+We appreciate all contributions to the Ai-Park project! Here are our contributors:
 
-## 🛠️ Tech Stack
-- **Frontend:** React.js
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
+- **Biswahack20** - Project Maintainer
 
-## 🌐 Live Demo
-- [Ai-Park Demo](https://ai-park-visitor.vercel.app/)
-
-Feel free to reach out for contributions and suggestions! 😊
+If you'd like to contribute to this project, please follow our contribution guidelines and submit a pull request!
